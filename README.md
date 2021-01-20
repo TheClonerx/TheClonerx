@@ -18,7 +18,6 @@ I like writing C++ code, and sometimes Python. I also know Lua and how to embed 
 I don't use social media a lot, but here are some options
 - Discord: TheClonerx#6174
 - Chatango: TheClonerx
-- Mastodon: [@TheClonerx@antabaka.me](https://antabaka.me/@TheClonerx)
 <!--
 Welcome! Welcome to my profile!
 You have chosen, or been chosen, to relocate to one of our finest remaining users.
@@ -26,5 +25,4 @@ I thought so much of my profile that I elected to establish my README.md here, i
 I've been proud to call this my home.
 And so, whether you are here to stay, or passing through on your way to parts unknown - welcome.<br/>
 It's safer here. 
-<a rel="me" href="https://antabaka.me/@TheClonerx">Mastodon</a>
 -->
