@@ -17,7 +17,8 @@ I like writing C++ code, and sometimes Python. I also know Lua and how to embed 
 ### Contacts
 I don't use social media a lot, but here are some options
 - Discord: TheClonerx#6174
-- Chatango: TheClonerx
+- Chatango: [TheClonerx](https://theclonerx.chatango.com)
+- Telegram: [@TheClonerx](https://t.me/TheClonerx)
 <!--
 Welcome! Welcome to my profile!
 You have chosen, or been chosen, to relocate to one of our finest remaining users.
