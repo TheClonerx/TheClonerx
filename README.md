@@ -6,7 +6,7 @@ I like writing C++ code, and sometimes Python. I also know Lua and how to embed 
 
 ### Little projects of mine
 - [TheBotx](//github.com/TheClonerx/thebotx) - *The* original version of TheBotx, a bot for Chatango
-- [New TheBotx](//github.com/TheClonerx/new-thebotx) (in development) - New version of TheBotx, written in C++20, user programmable through Lua.
+- [New TheBotx](//github.com/TheClonerx/thebotx_cxx) (in development) - New version of TheBotx, written in C++20, user programmable through Lua.
 - [cppnet](//github.com/TheClonerx/cppnet) - A little, easy to use networking library for C++
 - [tinyws](//github.com/TheClonerx/tinyws) (in development) - A WebSocket frame parser for C, inspired on [http_parser](https://github.com/nodejs/http-parser)
 - [py-gmav](//github.com/TheClonerx/py-gmav) - Python Garry's Mod  Addon Viewer, using Tkinter
