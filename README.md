@@ -5,15 +5,14 @@ I've been learning programming since I was 11 years old, I've always liked the i
 I like writing C++ code, and sometimes Python. I also know Lua and how to embed it in C/C++.<br/>
 
 ### Little projects of mine
-- [TheBotx](//github.com/TheClonerx/thebotx) - *The* original version of TheBotx, a bot for Chatango
-<!-- - [New TheBotx](//github.com/TheClonerx/thebotx_cxx) (in development) - New version of TheBotx, written in C++20, user programmable through Lua. -->
+- [TheBotx](//github.com/TheClonerx/thebotx) - *The* original version of TheBotx, a bot for Chatango, using a custom version of [ch.py](https://github.com/nhammond129/ch.py)
 - [cppnet](//github.com/TheClonerx/cppnet) - A little, easy to use networking library for C++
+- [py-gmav](//github.com/TheClonerx/py-gmav) - Python Garry's Mod Addon Viewer, using Tkinter
+<!-- - [New TheBotx](//github.com/TheClonerx/thebotx_cxx) (in development) - New version of TheBotx, written in C++20, user programmable through Lua. -->
 <!-- - [tinyws](//github.com/TheClonerx/tinyws) (in development) - A WebSocket frame parser for C, inspired on [http_parser](https://github.com/nodejs/http-parser) -->
-- [py-gmav](//github.com/TheClonerx/py-gmav) - Python Garry's Mod  Addon Viewer, using Tkinter
-
 ### Other contributions
 - [chatango-lib](//github.com/neokuze/chatango-lib) and [megach](//github.com/LinkkG/megach) - Python libraries for building Chatango bots
-- [ipm](//github.com/ionlang/ipm) (in development) - Ion Package Manager
+<!-- - [ipm](//github.com/ionlang/ipm) (in development) - Ion Package Manager -->
 
 ### Contacts
 I don't use social media a lot, but here are some options
