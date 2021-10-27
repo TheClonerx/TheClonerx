@@ -7,6 +7,7 @@ I like writing C++ code, and sometimes Python. I also know Lua and how to embed 
 ### Little projects of mine
 - [TheBotx](//github.com/TheClonerx/thebotx) - *The* original version of TheBotx, a bot for Chatango, using a custom version of [ch.py](https://github.com/nhammond129/ch.py)
 - [cppnet](//github.com/TheClonerx/cppnet) - A little, easy to use networking library for C++
+- [bad_io](//github.com/TheClonerx/bad_io) - An async, event driven, IO library. Somewhat compatible with [asio](https://think-async.com/Asio/). 
 - [py-gmav](//github.com/TheClonerx/py-gmav) - Python Garry's Mod Addon Viewer, using Tkinter
 <!-- - [New TheBotx](//github.com/TheClonerx/thebotx_cxx) (in development) - New version of TheBotx, written in C++20, user programmable through Lua. -->
 <!-- - [tinyws](//github.com/TheClonerx/tinyws) (in development) - A WebSocket frame parser for C, inspired on [http_parser](https://github.com/nodejs/http-parser) -->
@@ -24,6 +25,6 @@ Welcome! Welcome to my profile!
 You have chosen, or been chosen, to relocate to one of our finest remaining users.
 I thought so much of my profile that I elected to establish my README.md here, in GitHub, so thoughtfully provided by our benefactors.
 I've been proud to call this my home.
-And so, whether you are here to stay, or passing through on your way to parts unknown - welcome.<br/>
+And so, whether you are here to stay, or passing through on your way to parts unknown - welcome.
 It's safer here. 
 -->
