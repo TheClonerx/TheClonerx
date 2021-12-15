@@ -15,6 +15,11 @@ I like writing C++ code, and sometimes Python. I also know Lua and how to embed 
 - [chatango-lib](//github.com/neokuze/chatango-lib) and [megach](//github.com/LinkkG/megach) - Python libraries for building Chatango bots
 <!-- - [ipm](//github.com/ionlang/ipm) (in development) - Ion Package Manager -->
 
+### Support Me
+If you like what i make, or would like to request something in particular,
+feel free to support me on Ko-fi!
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/theclonerx)
+
 ### Contacts
 I don't use social media a lot, but here are some options
 - Discord: TheClonerx#6174
