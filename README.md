@@ -24,7 +24,6 @@ feel free to support me on Ko-fi!
 ### Contacts
 I don't use social media a lot, but here are some options
 - Discord: ~~TheClonerx#6174~~ `theclonerx`
-- Chatango: [TheClonerx](https://theclonerx.chatango.com)
 - Telegram: [@TheClonerx](https://t.me/TheClonerx)
 <!--
 Welcome! Welcome to my profile!
